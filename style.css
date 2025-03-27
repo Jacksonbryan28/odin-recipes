@@ -1,3 +1,32 @@
 * {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+li {
+  padding-top: 5px;
+}
+
+h1 {
+  background-color: #8a2be250;
+  border-radius: 5px;
+}
+.backgroundStyle {
+  border-radius: 15px;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.backgroundStyle.lasagna {
+  background-color: rgb(0, 255, 255);
+}
+.backgroundStyle.salmon {
+  background-color: bisque;
+}
+.backgroundStyle.stir-fry {
+  background-color: burlywood;
+}
+
+a {
+  background-color: #d3d3d350;
+  border-radius: 5px;
+}
