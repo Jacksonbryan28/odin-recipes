@@ -2,9 +2,9 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-li {
+/* li {
   padding-top: 5px;
-}
+} */
 
 h1 {
   background-color: #8a2be250;
@@ -26,7 +26,21 @@ h1 {
   background-color: burlywood;
 }
 
-a {
+/* a {
   background-color: #d3d3d350;
   border-radius: 5px;
+} */
+.home-card {
+  background-color: #e4e4e4;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 8px;
+  display: inline-block;
+  width: 300px;
+}
+.card-img {
+  display: block;
+  width: 300px;
+  border-radius: 4px;
+  margin-bottom: 4px;
 }
